@@ -1,3 +1,5 @@
 # kanika-demo
-Author-Kanika Rajput. I live in Bijnor.
+Author-Kanika Rajput.
 <b>
+I Live in Bijnor.
+
